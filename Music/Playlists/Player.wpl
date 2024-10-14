@@ -1,0 +1,29 @@
+<?wpl version="1.0"?>
+<smil>
+  <head>
+    <author />
+    <guid>{47AD2146-6652-4C7F-90A3-F742884A0CA0}</guid>
+    <meta name="totalDuration" content="2363321" />
+    <meta name="Subtitle" />
+    <meta name="ContentPartnerName" />
+    <meta name="ContentPartnerNameType" />
+    <meta name="ContentPartnerListID" />
+    <meta name="IsFavorite" />
+    <meta name="ItemCount" content="9" />
+    <meta name="Generator" content="Entertainment Platform -- 10.19031.1141.0" />
+    <title>Player</title>
+  </head>
+  <body>
+    <seq>
+      <media src="C:\Users\Vinh Pham\Music\Jon B - Someone to Love ft Babyface[YoutubeConverter.me].mp3" albumTitle="Unknown Album" albumArtist="Unknown Artist" trackTitle="Jon B - Someone to Love ft Babyface[YoutubeConverter.me]" trackArtist="Unknown Artist" duration="268721" />
+      <media src="C:\Users\Vinh Pham\Music\The Weeknd - I Feel It Coming ft Daft Punk[YoutubeConverter.me].mp3" albumTitle="Unknown Album" albumArtist="Unknown Artist" trackTitle="The Weeknd - I Feel It Coming ft Daft Punk[YoutubeConverter.me]" trackArtist="Unknown Artist" duration="297848" />
+      <media src="C:\Users\Vinh Pham\Music\The Weeknd - Starboy official ft Daft Punk[YoutubeConverter.me].mp3" albumTitle="Unknown Album" albumArtist="Unknown Artist" trackTitle="The Weeknd - Starboy official ft Daft Punk[YoutubeConverter.me]" trackArtist="Unknown Artist" duration="273449" />
+      <media src="C:\Users\Vinh Pham\Music\TLC - Baby-Baby-Baby[YoutubeConverter.me].mp3" albumTitle="Ooooooohhh...On the TLC Tip" albumArtist="TLC" trackTitle="Baby-Baby-Baby" trackArtist="TLC" duration="253074" />
+      <media src="C:\Users\Vinh Pham\Music\TLC - Creep[YoutubeConverter.me].mp3" albumTitle="Unknown Album" albumArtist="Unknown Artist" trackTitle="TLC - Creep[YoutubeConverter.me]" trackArtist="Unknown Artist" duration="264333" />
+      <media src="C:\Users\Vinh Pham\Music\Toni Braxton - Just Be A Man About It[YoutubeConverter.me].mp3" albumTitle="Unknown Album" albumArtist="Unknown Artist" trackTitle="Toni Braxton - Just Be A Man About It[YoutubeConverter.me]" trackArtist="Unknown Artist" duration="288026" />
+      <media src="C:\Users\Vinh Pham\Music\Usher - Nice and Slow[YoutubeConverter.me].mp3" albumTitle="Ghetto Hymns [Japan]" albumArtist="Dave Hollister" trackTitle="Round and Round" trackArtist="Dave Hollister" duration="228075" />
+      <media src="C:\Users\Vinh Pham\Music\Ashanti - Happy ft Ja Rule[YoutubeConverter.me].mp3" albumTitle="Unknown Album" albumArtist="Unknown Artist" trackTitle="Ashanti - Happy ft Ja Rule[YoutubeConverter.me]" trackArtist="Unknown Artist" duration="240587" />
+      <media src="C:\Users\Vinh Pham\Music\Jon B - Are U Still Down[YoutubeConverter.me].mp3" albumTitle="Body + Soul: Midnight Fire" albumArtist="Various Artists" trackTitle="Are U Still Down?" trackArtist="Jon B." duration="249208" />
+    </seq>
+  </body>
+</smil>
